@@ -1,0 +1,14 @@
+{
+  "name": "LearnWise AI — Adaptive Learning",
+  "short_name": "LearnWise",
+  "description": "Adaptive learning prototype for Classes 6–10. Every student learns differently. Now, learning does too.",
+  "start_url": "/student",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#F6F8FC",
+  "theme_color": "#0A1730",
+  "lang": "en",
+  "icons": [
+    { "src": "/logo.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}

@@ -1,0 +1,157 @@
+1
+00:00:00,500 --> 00:00:05,500
+Every student in a Class 8 classroom
+
+2
+00:00:05,500 --> 00:00:09,200
+is at a different place in the same chapter.
+
+3
+00:00:09,200 --> 00:00:15,000
+LearnWise AI adapts to where each one actually is
+and shows the teacher what that looks like.
+
+4
+00:00:15,000 --> 00:00:20,500
+A fixed lesson moves on at one speed,
+
+5
+00:00:20,500 --> 00:00:26,000
+whether or not the student is ready.
+
+6
+00:00:26,000 --> 00:00:31,000
+Adaptive learning picks the next question
+from the answers just given.
+
+7
+00:00:31,000 --> 00:00:35,000
+In this prototype those choices come from
+written rules — not a black box.
+
+8
+00:00:35,000 --> 00:00:39,500
+This is Aarav, a sample Class 8 student —
+not a real child.
+
+9
+00:00:39,500 --> 00:00:45,000
+His dashboard shows points, a streak, his level,
+
+10
+00:00:45,000 --> 00:00:50,000
+and one recommended next step.
+
+11
+00:00:50,000 --> 00:00:55,000
+The “why this?” panel shows the rule behind it.
+
+12
+00:00:55,000 --> 00:00:59,500
+Eight questions on fractions,
+variables and equations.
+
+13
+00:00:59,500 --> 00:01:05,000
+I will answer the fraction questions
+wrong on purpose,
+
+14
+00:01:05,000 --> 00:01:09,500
+to show what happens next.
+
+15
+00:01:09,500 --> 00:01:14,000
+Nothing here is timed.
+
+16
+00:01:14,000 --> 00:01:20,000
+The score comes only from the answers
+I actually chose.
+
+17
+00:01:20,000 --> 00:01:25,000
+Three of eight correct.
+
+18
+00:01:25,000 --> 00:01:29,500
+Fractions is flagged as the gap, with the evidence.
+
+19
+00:01:29,500 --> 00:01:35,000
+Practice starts there, and every answer shows
+why the next question was chosen.
+
+20
+00:01:35,000 --> 00:01:40,000
+The tutor explains the same idea with a pizza:
+
+21
+00:01:40,000 --> 00:01:45,000
+why 1/2 + 1/3 is 5/6 — not 2/5.
+
+22
+00:01:45,000 --> 00:01:50,000
+The path enforces prerequisites.
+
+23
+00:01:50,000 --> 00:01:55,500
+Fractions is below 60 percent,
+
+24
+00:01:55,500 --> 00:02:00,000
+so later topics stay locked, and say why.
+
+25
+00:02:00,000 --> 00:02:05,000
+That is how a gap gets closed, not carried forward.
+
+26
+00:02:05,000 --> 00:02:11,000
+The teacher sees the same evidence at class level:
+
+27
+00:02:11,000 --> 00:02:16,000
+strengths, students who need support,
+common misconceptions.
+
+28
+00:02:16,000 --> 00:02:21,000
+Aarav's row shows a dash where he has not answered,
+
+29
+00:02:21,000 --> 00:02:25,500
+so missing work is never counted as failure.
+
+30
+00:02:25,500 --> 00:02:30,000
+Plans are labelled suggestions — the teacher decides.
+
+31
+00:02:30,000 --> 00:02:35,000
+The language switch changes the interface
+and the teaching text.
+
+32
+00:02:35,000 --> 00:02:40,000
+The coverage table states which topics are translated.
+
+33
+00:02:40,000 --> 00:02:45,000
+Low-data mode trims animation. Saved lessons read
+offline — live tutoring does not.
+
+34
+00:02:45,000 --> 00:02:50,000
+LearnWise AI helps every student learn
+at their own pace,
+
+35
+00:02:50,000 --> 00:02:55,000
+while giving teachers better insight
+into how to support them.
+
+36
+00:02:55,000 --> 00:03:00,000
+Rules over real answers, three languages,
+an honest label on everything simulated. Code Kernel '26.
